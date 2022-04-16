@@ -4,4 +4,10 @@
 class cperson
 {
 	public:
+
+
+
 };
+
+
+"ni hao"
