@@ -57,3 +57,32 @@
 --|:--:|--:
 王者荣耀|10|1
 和平精英|5|2
+
+
+# 代码
+#### 在文档中插入代码
+```c
+#include<stdio.h>
+
+int main()
+{
+	printf("Welcome to C World\n");
+	return 0;
+}
+```
+******
+```cpp
+#include<iostream>
+using namespace std;
+
+int main()
+{
+	cout<<"Welcome To C++ World"<<endl;
+	return 0;
+}
+```
+------
+```bash
+	vi file.c
+	:wq
+```
